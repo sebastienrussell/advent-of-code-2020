@@ -18,7 +18,7 @@ abstract class BaseDay {
 
     abstract fun solve(inputs: List<String>): Pair<Any, Any>
 
-    fun solvePuzzle(inputs: List<String>): Pair<Any, Any> {
+    fun solvePuzzles(inputs: List<String>): Pair<Any, Any> {
         return solve(inputs)
     }
 }
