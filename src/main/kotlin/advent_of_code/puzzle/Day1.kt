@@ -1,4 +1,4 @@
-package advent_of_code
+package advent_of_code.puzzle
 
 class Day1 : BaseDay() {
 
